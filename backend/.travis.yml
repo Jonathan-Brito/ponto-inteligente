@@ -1,3 +1,3 @@
-language: java
+languagem: java
 jdk:
   - java-11-openjdk-11.0.13-1
