@@ -1,6 +1,3 @@
-languagem: java
+language: java
 jdk:
-  - jdk11
-deploy:
-  on:
-    all_branchs: true
+  - oraclejdk11
